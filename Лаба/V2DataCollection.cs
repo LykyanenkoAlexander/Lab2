@@ -213,7 +213,8 @@ namespace Лаба
 
             foreach (var item in Data)
             {
-                long_res = long_res + '\n' + item.Vect2 + " = " + item.Compl;
+                long_res = long_res + '\n' + item.Vect2 + " = " + item.Compl + '\n' +
+                    "module value = " + item.Compl.Magnitude;
             }
             
             return long_res;
@@ -228,7 +229,8 @@ namespace Лаба
             string long_res = "";
             foreach (var item in Data)
             {
-                long_res = long_res + '\n' + item.Vect2 + " = " + item.Compl.ToString(format);
+                long_res = long_res + '\n' + item.Vect2 + " = " + item.Compl.ToString(format) + '\n' +
+                    "module value = " + item.Compl.Magnitude.ToString(format);
             }
 
             return "s";

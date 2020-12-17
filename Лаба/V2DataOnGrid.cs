@@ -203,7 +203,8 @@ namespace Лаба
                 for (int j = 0; j < Elem[1].Node; j++)
                 {
                     long_res = long_res + '\n' + "[" + i * Elem[0].Step + ", " + j * Elem[1].Step +
-                               "] " + " = " + Node_Val[i, j];
+                               "] " + " = " + Node_Val[i, j] + '\n' +
+                    "module value = " + Node_Val[i, j].Magnitude;
                 }
             }
 
@@ -225,7 +226,8 @@ namespace Лаба
                 for (int j = 0; j < Elem[1].Node; j++)
                 {
                     long_res = long_res + '\n' + "[" + i * Elem[0].Step + ", " + j * Elem[1].Step +
-                               "] " + " = " + Node_Val[i, j].ToString(format);
+                               "] " + " = " + Node_Val[i, j].ToString(format) + '\n' +
+                    "module value = " + Node_Val[i, j].Magnitude.ToString(format);
                 }
             }
 

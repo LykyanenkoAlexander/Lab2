@@ -26,3 +26,18 @@ C:\Users\mrlyk\Desktop\ВМК\5 семестр\С#\Код\Лаба\obj\Debug\net
 C:\Users\mrlyk\Desktop\ВМК\5 семестр\С#\Код\Лаба\obj\Debug\netcoreapp3.1\Лаба.dll
 C:\Users\mrlyk\Desktop\ВМК\5 семестр\С#\Код\Лаба\obj\Debug\netcoreapp3.1\Лаба.pdb
 C:\Users\mrlyk\Desktop\ВМК\5 семестр\С#\Код\Лаба\obj\Debug\netcoreapp3.1\Лаба.genruntimeconfig.cache
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.exe
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.deps.json
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.runtimeconfig.json
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.runtimeconfig.dev.json
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.dll
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\bin\Debug\netcoreapp3.1\Лаба.pdb
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.csprojAssemblyReference.cache
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.Properties.Resources.resources
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.csproj.GenerateResource.cache
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.AssemblyInfoInputs.cache
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.AssemblyInfo.cs
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.csproj.CoreCompileInputs.cache
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.dll
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.pdb
+C:\Users\mrlyk\OneDrive\Документы\GitHub\Lab2\Лаба\obj\Debug\netcoreapp3.1\Лаба.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrlyk\\Desktop\\ВМК\\5 семестр\\С#\\Код\\Лаба\\Лаба.csproj",
+      "projectUniqueName": "C:\\Users\\mrlyk\\OneDrive\\Документы\\GitHub\\Lab2\\Лаба\\Лаба.csproj",
       "projectName": "Лаба",
-      "projectPath": "C:\\Users\\mrlyk\\Desktop\\ВМК\\5 семестр\\С#\\Код\\Лаба\\Лаба.csproj",
+      "projectPath": "C:\\Users\\mrlyk\\OneDrive\\Документы\\GitHub\\Lab2\\Лаба\\Лаба.csproj",
       "packagesPath": "C:\\Users\\mrlyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrlyk\\Desktop\\ВМК\\5 семестр\\С#\\Код\\Лаба\\obj\\",
+      "outputPath": "C:\\Users\\mrlyk\\OneDrive\\Документы\\GitHub\\Lab2\\Лаба\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrlyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,10 +34,32 @@
         "netcoreapp3.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {}
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
     }
   }
 }
